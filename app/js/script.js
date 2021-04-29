@@ -22,3 +22,15 @@ btnHamburger.addEventListener('click', function() {
         
     }
 });
+
+// Remove the header menu if breakpoint-up is large
+window.addEventListener("resize", function() {
+    if (window.innerWidth > 1023) {
+        body.classList.remove('noscroll');
+        header.classList.remove('open');
+        fadeElems.forEach(function(element) {
+            element.classList.remove('fade-in');
+            element.classList.add('fade-out');
+        })
+    }
+});

@@ -76,6 +76,11 @@
       padding: 0.625rem;
       color: $darkBlue;
       text-align: center;
+      transition: color 200ms ease-in-out;
+
+      &:hover {
+        color: $limeGreen;
+      }
     }
   }
 
