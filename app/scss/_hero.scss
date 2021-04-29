@@ -26,13 +26,7 @@
       order: 2;
       min-height: 41rem;
       background-image: none;
-      // background-image: url('/images/bg-intro-desktop.svg');
-      // background-position: left center;
     }
-
-    // &::before, &::after {
-    //   border: 1px solid red;
-    // }
 
     &::before {
       @include breakpoint-up(large) {
@@ -41,7 +35,6 @@
         height: 100%;
         background-image: url('/images/bg-intro-desktop.svg');
         background-repeat: no-repeat;
-        background-position: center bottom;
         width: 150%;
         background-size: 122%;
         background-position: 0 83%;
