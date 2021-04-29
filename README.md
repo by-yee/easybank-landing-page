@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/by-yee/easybank-landing-page/settings/pages](https://github.com/by-yee/easybank-landing-page/settings/pages)
+- Solution URL: [https://github.com/by-yee/easybank-landing-page/settings/pages](https://github.com/by-yee/easybank-landing-page)
 - Live Site URL: [https://by-yee.github.io/easybank-landing-page/](https://by-yee.github.io/easybank-landing-page/)
 
 ## My process
